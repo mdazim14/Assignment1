@@ -1,0 +1,112 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/* **********navigation-area design start****************** */
+
+
+.nav-logo{
+    padding-left: 240px;
+}
+.nav-logo h1 {
+    background-color: white;
+    font-size: 30px;
+    padding-left: 50px ;
+}
+.navigation-area {
+    /* border: 10px solid red; */
+    display: flex;
+    /* justify-content: center; */
+    /* justify-items: center; */
+    border-bottom: 1px solid rgb(187, 187, 187);
+}
+.colorful-text {
+    background-color: rgb(251, 172, 0);
+    color: white;
+    padding-right: 5px;
+}
+.nav-all-options{
+    /* border: 10px solid rgb(11, 255, 24); */
+    display: flex;
+    align-items: center;
+    padding-left: 800px;
+}
+.options{
+    padding-left: 80px ;
+    font-size: 20px;
+}
+.options a{
+    text-decoration: none;
+    color: rgb(83, 82, 82);
+    /* font-weight: bold; */
+    
+}
+.options a:hover{
+    color: rgb(251, 172, 0);
+}
+
+
+/* **********navigation-area design End****************** */
+
+
+/* **********Top-banner part one design Start****************** */
+.top-banner {
+    padding-bottom: 150px;
+}
+.h1-size {
+    font-size: 50px;
+}
+.h2-size{
+    font-size: 40px;
+}
+.orange-highlight {
+    color: orange;
+}
+.half-width {
+    width: 30%;
+    float: left;
+    margin-left: 15%;
+    padding-left: 0%;
+}
+.half-width img {
+    width: 100%;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, rgb(243, 166, 23), rgb(255, 0, 0));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+/* **********Top-banner part one design End****************** */
+
+
+
+/* **********Top-banner part two design start************** */
+
+.half-width img {
+    width: 100%;
+}
+.half-width {
+    width: 30%;
+    float: left;
+    margin-left: 15%;
+    padding-left: 0%;
+}
+.h1-size {
+    font-size: 50px;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, rgb(243, 166, 23), rgb(255, 0, 0));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+/* **********Top-banner part two design end************** */
