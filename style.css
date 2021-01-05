@@ -59,7 +59,7 @@ body{
     font-size: 50px;
 }
 .h2-size{
-    font-size: 40px;
+    font-size: 30px;
 }
 .orange-highlight {
     color: orange;
@@ -110,3 +110,42 @@ body{
 }
 
 /* **********Top-banner part two design end************** */
+
+
+/* ********** Table-section part design start ************ */
+
+.Table-section {
+ /* border: 5px solid red; */
+ margin-top: 800px;
+ background-color: #F8F9FC;
+ padding: 0px 100px 100px 100px;
+}
+.text-box {
+    /* border: 2px solid rgb(47, 0, 255); */
+    text-align: center;
+    padding: 50px 0px;
+    font-size: 20px;
+}
+
+.project-box {
+    /* border: 5px solid rgb(14, 255, 6); */
+    margin:5px ;
+    display: flex;
+    justify-content: center;
+    /* justify-items: center; */
+    /* justify-content: space-evenly; */
+}
+.projectB {
+    width: 20%;
+    /* border: 2px solid black; */
+    margin: 40px 20px ;
+    padding: 15px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgb(158, 158, 158);
+}
+.projectB img{
+ width: 100%;
+}
+
+/* ********** Table-section part design end ************ */
