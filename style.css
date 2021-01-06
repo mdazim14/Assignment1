@@ -159,8 +159,57 @@ body{
 
 /* ********** Table-section part design end ************ */
 
-/****************** footer part design start ****************/
 
+/************** experience-area design strat *****************/
+.experience-area {
+    /* margin: 50px 0px; */
+    background-color: rgb(224, 224, 224);
+    padding: 100px 0px;
+}
+#expn-color-text {
+    /* border: 2px solid red; */
+    /* display: inline-block; */
+    width: 12%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: orange;
+    font-size: 40px;
+}
+.experience-skil {
+    width: 50%;
+    margin: auto;
+}
+.item-one{
+    background-color: rgb(58, 219, 219);
+    width: 90%;
+}
+.item-two{
+    background-color: rgb(118, 148, 230);
+    width: 70%;
+}
+.item-three{
+    background-color: rgb(211, 134, 99);
+    width: 40%;
+}
+.li-items {
+    /* border: 2px solid rgb(0, 0, 0); */
+    margin: 30px 0px;
+    box-shadow: 1px 1px 20px rgb(87, 86, 86);
+}
+.experience-skil ul p { 
+font-weight: 700;
+font-size: 22px;
+}
+
+
+/************** experience-area design end *****************/
+
+
+/****************** footer part design start ****************/
+.footer-area {
+    padding: 100px 0px;
+}
 .footer-img-text{
     /* border: 5px solid red; */
     background-image: url(images/frtdgn99.png);
@@ -192,6 +241,9 @@ body{
     /* margin: auto; */
     text-align: center;
     padding: 30px;
+}
+.footer-text-icon h2 {
+    text-transform: uppercase;
 }
 .footer-text-icon img{
     width: 30px;
